@@ -110,8 +110,8 @@ A5,
 
 switch赋值为4，结果led为5
 
-![alt](assets\originalnegate.png)
+<img src="assets\originalnegate.png" alt="alt" style="zoom:80%;" />
 
 为什么testbench和顶层文件中将switch和led取反再取反？仿真结果取反才是正确的结果，但是不取反最后结果很明显啊直接是正的，所以为什么取反（他这么写一定有他这么写的理由我是菜鸡我要向LA官方学习🤯😢🥺😣😭）
 
-![alt](assets\after.png)
+<img src="assets\after.png" alt="alt" style="zoom:80%;" />
